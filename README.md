@@ -5,4 +5,5 @@ This is my first edit to the Readme file in my first GIT repository in my first 
 
 I'll start off with some Python, work on some ERPNext, familiarize with Digitalocean cloud, and some Ubuntu server stuff.
 
-This edit is created with the intention of rolling back the commit
+CHANGES
+07-JUL-21-0923  -ADRIAN -ADDED CHANGES
